@@ -1,6 +1,6 @@
 ## How to Setup
 1. Clone the repository:
-`git clone https://github.com/uiuc-web-programming/mp1_starter_17.git mp1`, then `cd mp1`
+`git clone https://github.com/sarahjliu/Vanilla-JS-Site`, then `cd Vanilla-JS-Site`
 2. Install dependencies:
 `npm install`
 3. Run the dev server:
